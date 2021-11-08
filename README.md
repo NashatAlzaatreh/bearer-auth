@@ -15,9 +15,9 @@
 
 ## Deploy, Run and Test
 
-- [test report]()
-- [deployed link]()
-- [Pull Request]()
+- [test report](https://github.com/NashatAlzaatreh/bearer-auth/actions)
+- [deployed link](https://nashat-bearer-auth.herokuapp.com/)
+- [Pull Request](https://github.com/NashatAlzaatreh/bearer-auth/pull/1)
 
 ### Setup
 
@@ -26,7 +26,6 @@
 - `PORT` - port number
 - `SECRET` - a random string
 - `DATABASE_URL`: postgres://localhost:5432/`databaseName`
-
 
 #### Running the app
 
